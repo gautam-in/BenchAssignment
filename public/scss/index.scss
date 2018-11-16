@@ -1,0 +1,153 @@
+@media(max-width: 426px){
+    .Rmodal{
+        display: none;
+        
+    }
+    // .Lmodal{
+    //     margin-left: 0;
+    //     padding-left: 15%;
+    //     // float: none;
+    //     // width: 100%;
+    // }
+    // .head{
+        
+    //     padding-left: 0%;
+    //     text-align: center;
+        
+    // }
+    .imsize{
+        width: 100px;
+        height:100px;
+    }
+    .tdIwidth{
+        width: 10%;
+    }
+    .tdwidth{
+        width: 60%;
+        padding-left: 30px;
+        font-size: 10px;
+    }
+    
+   
+  
+} 
+.tdIwidth{
+    width: 15%;
+}
+.tdwidth{
+    width: 55%;
+    padding-left: 30px;
+}
+.twidth{
+    width: 10%;
+}
+// @media(max-width: 425px){
+//     .Lmodal{
+//         padding: 0;
+//     }
+//     .lside .rside{
+//         padding-left: 15%;
+//     }
+// }
+
+.head{
+    font-size: 200%;
+    padding-left: 5%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.rows{
+    // border-bottom-style: groove;
+    // border-Top-style: groove;
+    border-style: groove;
+}
+.itpadd{
+    padding-left: 10%;
+}
+.rmo{
+    width: 50%;
+}
+.tabs{
+//  margin-left: 5%;
+width:100%;
+margin : auto;
+margin-bottom : 60px;
+ padding-top : 10px;
+ 
+}
+#size {
+    font-size: 10px;
+}
+.bottom{
+    width: 100%;
+    margin: auto;
+}
+.lside{
+    width: 25%;
+    
+    float: left;
+}
+.rside{
+    width:75%;
+    
+    float: right;
+}
+
+.Lmodal{
+    float: left;
+    width: 70%
+    
+}
+.Lmodall{
+    width: 43%;
+}
+.Rmodal{
+    float: right;
+    padding-right: 5%;
+    width: 25%
+}
+.toalign{
+    text-align: center;
+}
+.mod{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.priceDisplay{
+    height: 100px;
+}
+.modalEdit{
+    width: 86%;
+    margin-top: 10px;
+}
+.textclass{
+    font-size: 20px;
+}
+.corofont{
+    color: black;
+}
+
+.corosal{
+    padding-top: 100px;
+    // width: 400px;
+    // height: 400px;
+    margin: auto;
+    margin-bottom: 100px;
+}
+.inpu{
+    width: 40px;
+    text-align: center;
+}
+.calculation{
+    border-bottom-style: solid;
+    border-Top-style: solid;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.upborder{
+    border-Top-style: solid;   
+    padding-top: 30px;
+}
+.inputl{
+    width: 200px;
+}

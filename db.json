@@ -1,0 +1,82 @@
+{
+  "Items": [
+    {
+      "id": 1,
+      "text": "Brown cotton sweatshirt",
+      "color": "brown",
+      "image": "./public/assets/th.jpeg",
+      "quantity": "0",
+      "size": "XS",
+      "price": 1500
+    },
+    {
+      "id": 2,
+      "text": "Purple cotton sweatshirt",
+      "color": "purple",
+      "image": "./public/assets/thone.jpeg",
+      "quantity": "1",
+      "size": "S",
+      "price": 999
+    },
+    {
+      "id": 3,
+      "text": "grey cotton sweatshirt",
+      "color": "grey",
+      "image": "./public/assets/thtwo.jpeg",
+      "quantity": 1,
+      "size": "S",
+      "price": 1200
+    }
+  ],
+  "promocode": [
+    {
+      "code": "pattan",
+      "discount": 100
+    },
+    {
+      "code": "fakhruddin",
+      "discount": 200
+    },
+    {
+      "code": "ali",
+      "discount": 300
+    },
+    {
+      "code": "ahmed",
+      "discount": 400
+    },
+    {
+      "code": "khan",
+      "discount": 500
+    }
+  ],
+  "AddItems": [
+    {
+      "id": 11,
+      "text": "Brown cotton sweatshirt",
+      "color": "brown",
+      "image": "./public/assets/th.jpeg",
+      "quantity": "0",
+      "size": "XS",
+      "price": 1500
+    },
+    {
+      "id": 12,
+      "text": "Purple cotton sweatshirt",
+      "color": "purple",
+      "image": "./public/assets/thone.jpeg",
+      "quantity": "2",
+      "size": "L",
+      "price": 999
+    },
+    {
+      "id": 13,
+      "text": "grey cotton sweatshirt",
+      "color": "grey",
+      "image": "./public/assets/thtwo.jpeg",
+      "quantity": 1,
+      "size": "S",
+      "price": 1200
+    }
+  ]
+}
